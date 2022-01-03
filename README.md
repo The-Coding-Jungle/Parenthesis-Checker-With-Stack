@@ -1,4 +1,4 @@
-# Parenthesis-CheckerWith-Stack
+# Parenthesis-Checker-With-Stack
 Making a Parenthesis checker with stack using C language
 <br/><br/>
 
