@@ -1,0 +1,5 @@
+**/*.out
+**/*.exe
+**/data
+**/build
+**/.vscode
